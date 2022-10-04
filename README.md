@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adnan0x1
+- 👋 Hi, I’m @Adnan
 - 👀 I’m interested in UI
 - 🌱 I’m currently Basic HTML
 - 💞️ I’m looking to collaborate on ...
